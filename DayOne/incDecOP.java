@@ -3,30 +3,28 @@ public class incDecOP {
 
         int a = 10;
         a = 12;
+        System.out.println(a++); // 12
+        System.out.println(a); // 13
+        System.out.println(--a); // 12
+        System.out.println(a); // 12
+        System.out.println(a++); // 12
+        System.out.println(a); // 13
+        System.out.println(--a); // 12
+        System.out.println(a); // 12
+        System.out.println(a--); // 12
+        System.out.println(a); // 11
+        System.out.println(++a); // 12
+        System.out.println(a); // 12
+        System.out.println(a++); // 12
+        System.out.println(a); // 13
+        System.out.println(--a); // 12
+        System.out.println(a); // 12
+
         // System.out.println(a++);
-        // System.out.println(a);
-        // System.out.println(--a);
-        // System.out.println(a);
-        // System.out.println(a++);
-        // System.out.println(a);
-        // System.out.println(--a);
-        // System.out.println(a);
-        // System.out.println(a--);
-        // System.out.println(a);
         // System.out.println(++a);
         // System.out.println(a);
         // System.out.println(a++);
         // System.out.println(a);
-        // System.out.println(a);
-        // System.out.println(a);
-        // System.out.println(--a);
-        // System.out.println(a);
-
-        System.out.println(a++);
-        System.out.println(++a);
-        System.out.println(a);
-        System.out.println(a++);
-        System.out.println(a);
         // System.out.println(a);
      }
     
