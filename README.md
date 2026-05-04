@@ -79,8 +79,8 @@ public class EvenOddChecker {
 
 ## 🛠️ Tech Stack
 
-- **Language:** Java (JDK 17+)
-- **IDE:** IntelliJ IDEA / VS Code
+- **Language:** Java
+- **IDE:** VS Code
 - **Build Tool:** None (raw `.java` compilation)
 
 ---
@@ -102,15 +102,13 @@ java EvenOddChecker
 | Day | Topic | Status |
 |-----|-------|--------|
 | Day 1 | Java Basics — Operators, Loops, Patterns | ✅ Complete |
-| Day 2 | Arrays & String Manipulation | 🔜 Upcoming |
-| Day 3 | OOP Concepts — Classes & Objects | 🔜 Upcoming |
-| ... | ... | ... |
+| Day 2 | ... | ... |
 
 ---
 
 ## 🎓 About This Repository
 
-This repository documents my **Impact Training** journey — a disciplined, project-driven approach to mastering Java from fundamentals to advanced concepts. Each day adds new programs, concepts, and real-world mini-projects.
+This repository documents my **Impact Training** journey — a disciplined, approach to mastering In DSA from fundamentals to advanced concepts. Each day adds new programs, concepts, and real-world uses.
 
 > *"Every expert was once a beginner. Consistency is the key."*
 
